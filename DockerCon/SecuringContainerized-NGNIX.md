@@ -31,4 +31,7 @@ If we think about it before we've been talking about using NGNIX to sit in front
 2. Link your services together with the **"links"** option
 3. The publish your NGINX service using the **"ports"** mappging
 
+
 ### Acquired knowledg
+How and why NGINX's lightweight and powerfull architecture makes 
+it very popular choice for securing containerized applications as a sidecar proxy within containers. 
