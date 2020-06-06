@@ -108,6 +108,9 @@ En el supuesto que el contenedor redis no llegara a arrancar se deberan cambiar 
 ocasiono algunos problemas 
     ports 6380:6379 --- > docker-compose.yml
 
+## Link Repositorio
+* **Deorela Lara** - ** - [deorelaLara](https://github.com/deorelaLara/Docker/tree/master/marvelHeroes-master)
+
 ## Pruebas
 
 ID TO TEST: 732 
