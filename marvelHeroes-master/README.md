@@ -109,7 +109,7 @@ ocasiono algunos problemas
     ports 6380:6379 --- > docker-compose.yml
 
 ## Link Repositorio
-* **Deorela Lara** - ** - [deorelaLara](https://github.com/deorelaLara/Docker/tree/master/marvelHeroes-master)
+* **Deorela Lara** - ** - [Proyecto-Marvel](https://github.com/deorelaLara/Docker/tree/master/marvelHeroes-master)
 
 ## Pruebas
 
